@@ -1,3 +1,5 @@
+# Strings Program
+# 6/5/2020
 
 greeting = "Samyak Bambole"
 #indexes:   01234

@@ -1,10 +1,13 @@
+# Variables Program
+# 6/5/2020
+
 print("There once was a man named George")
 print("He was 70 years old")
 print("He really liked the name George")
 print("But didn't like being 70")
 print (".")
 
- # This is a story 
+ # This is a story
 
 character_name = "George"
 character_age = "70"

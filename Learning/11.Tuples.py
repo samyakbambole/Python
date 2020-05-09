@@ -11,5 +11,3 @@ print(lucky_numbers[-1])
 print(lucky_numbers[2:])
 print(lucky_numbers[2:4])
 print(len(lucky_numbers))
-
-c
